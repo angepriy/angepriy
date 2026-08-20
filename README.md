@@ -14,7 +14,7 @@ I enjoy learning by building projects and exploring how real-world applications 
 - SQL & Database Management (Basic)
 - Python fundamentals
 - AI & Machine Learning
-- 
+  
 ## 💻 Tech Stack
 **Languages:** 
 
